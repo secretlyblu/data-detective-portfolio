@@ -1,0 +1,25 @@
+employee_id,employee_name,role,team,active_status
+E001,Jordan Bennett,Kennel Supervisor,Kennel B,Active
+E002,Casey Brooks,Animal Care Technician,Intake,Active
+E003,Morgan Carter,Kennel Supervisor,Kennel A,Active
+E004,Riley Diaz,Volunteer Coordinator,Veterinary,Active
+E005,Avery Ellis,Volunteer Coordinator,Kennel A,Active
+E006,Taylor Foster,Veterinary Assistant,Veterinary,Active
+E007,Jamie Gray,Volunteer Coordinator,Veterinary,Active
+E008,Cameron Hayes,Kennel Supervisor,Kennel A,Active
+E009,Drew Jackson,Veterinary Assistant,Kennel B,Active
+E010,Quinn Kim,Kennel Supervisor,Kennel A,Active
+E011,Parker Lewis,Animal Care Technician,Kennel A,Active
+E012,Reese Miller,Veterinary Assistant,Kennel B,Active
+E013,Rowan Nguyen,Shelter Coordinator,Intake,Active
+E014,Skyler Owens,Veterinary Assistant,Veterinary,Active
+E015,Alex Patel,Veterinary Assistant,Intake,Active
+E016,Devon Reed,Kennel Supervisor,Intake,Active
+E017,Blake Rivera,Veterinary Assistant,Kennel B,Active
+E018,Emerson Scott,Volunteer Coordinator,Veterinary,Active
+E019,Finley Turner,Shelter Coordinator,Intake,Active
+E020,Harper Walker,Veterinary Assistant,Intake,Active
+E021,Jules Young,Kennel Supervisor,Veterinary,Active
+E022,Kai Price,Kennel Supervisor,Kennel A,Active
+E023,Logan Bell,Veterinary Assistant,Kennel B,Active
+E024,Micah Ward,Veterinary Assistant,Kennel A,Inactive

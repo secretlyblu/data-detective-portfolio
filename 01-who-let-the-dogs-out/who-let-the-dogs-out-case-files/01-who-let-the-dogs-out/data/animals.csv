@@ -1,0 +1,81 @@
+animal_id,animal_name,species,breed,kennel_id,intake_date,animal_status
+A001,Juniper,Dog,Mixed Breed,K10,2026-09-14,In Shelter
+A002,Maple,Dog,Poodle Mix,K25,2026-05-05,In Shelter
+A003,Scout,Dog,Mixed Breed,K14,2026-03-09,In Shelter
+A004,Milo,Dog,Beagle,K17,2026-10-06,In Shelter
+A005,Clover,Dog,Pit Bull Mix,K12,2026-02-16,In Shelter
+A006,Scout,Dog,Mixed Breed,K08,2026-06-02,In Shelter
+A007,Teddy,Dog,Beagle,K04,2026-02-16,In Shelter
+A008,Pepper,Dog,Pit Bull Mix,K17,2026-07-16,In Shelter
+A009,Bandit,Dog,Poodle Mix,K20,2026-05-02,In Shelter
+A010,Rosie,Dog,Chihuahua Mix,K02,2026-08-06,In Shelter
+A011,Otis,Dog,Poodle Mix,K11,2026-01-07,In Shelter
+A012,Sunny,Dog,Beagle,K19,2026-03-23,In Shelter
+A013,Pepper,Dog,Mixed Breed,K12,2026-02-12,In Shelter
+A014,Blue,Dog,Beagle,K07,2026-05-21,In Shelter
+A015,Nala,Dog,Spaniel Mix,K06,2026-03-11,In Shelter
+A016,Juniper,Dog,Beagle,K09,2026-02-24,In Shelter
+A017,Biscuit,Dog,Poodle Mix,K07,2026-02-13,Missing - Under Review
+A018,Maple,Dog,Poodle Mix,K01,2026-05-13,In Shelter
+A019,Otis,Dog,Shepherd Mix,K05,2026-10-02,In Shelter
+A020,Blue,Dog,Chihuahua Mix,K02,2026-01-06,In Shelter
+A021,Mochi,Dog,Terrier Mix,K22,2026-05-17,In Shelter
+A022,Bandit,Dog,Shepherd Mix,K12,2026-07-22,In Shelter
+A023,Pepper,Dog,Pit Bull Mix,K09,2026-06-24,In Shelter
+A024,Milo,Dog,Spaniel Mix,K11,2026-08-13,In Shelter
+A025,Sunny,Dog,Chihuahua Mix,K04,2026-09-28,In Shelter
+A026,Nala,Dog,Pit Bull Mix,K15,2026-09-27,In Shelter
+A027,Rosie,Dog,Chihuahua Mix,K24,2026-01-25,In Shelter
+A028,Milo,Dog,Beagle,K23,2026-10-05,In Shelter
+A029,Pepper,Dog,Terrier Mix,K11,2026-08-26,In Shelter
+A030,Clover,Dog,Mixed Breed,K09,2026-05-01,In Shelter
+A031,Otis,Dog,Terrier Mix,K01,2026-02-24,In Shelter
+A032,Nala,Dog,Chihuahua Mix,K11,2026-03-26,In Shelter
+A033,Luna,Dog,Labrador Retriever,K05,2026-03-26,In Shelter
+A034,Frankie,Dog,Pit Bull Mix,K17,2026-09-02,In Shelter
+A035,Bandit,Dog,Spaniel Mix,K13,2026-03-03,In Shelter
+A036,Luna,Dog,Shepherd Mix,K25,2026-10-08,In Shelter
+A037,Bandit,Dog,Spaniel Mix,K27,2026-01-12,In Shelter
+A038,Luna,Dog,Dachshund Mix,K20,2026-04-20,In Shelter
+A039,Otis,Dog,Labrador Retriever,K26,2026-07-16,In Shelter
+A040,Waffles,Dog,Spaniel Mix,K17,2026-01-10,In Shelter
+A041,Frankie,Dog,Spaniel Mix,K20,2026-03-29,In Shelter
+A042,Bandit,Dog,Mixed Breed,K05,2026-10-01,In Shelter
+A043,Bandit,Dog,Mixed Breed,K07,2026-06-25,In Shelter
+A044,Waffles,Dog,Poodle Mix,K24,2026-06-17,In Shelter
+A045,Otis,Dog,Beagle,K10,2026-09-02,In Shelter
+A046,Juniper,Dog,Labrador Retriever,K19,2026-10-07,In Shelter
+A047,Sunny,Dog,Poodle Mix,K08,2026-06-09,In Shelter
+A048,Pip,Dog,Mixed Breed,K04,2026-08-06,In Shelter
+A049,Frankie,Dog,Pit Bull Mix,K19,2026-06-01,In Shelter
+A050,Pip,Dog,Labrador Retriever,K08,2026-02-05,In Shelter
+A051,Otis,Dog,Dachshund Mix,K12,2026-08-17,In Shelter
+A052,Juniper,Dog,Dachshund Mix,K03,2026-07-18,In Shelter
+A053,Milo,Dog,Pit Bull Mix,K22,2026-07-08,In Shelter
+A054,Otis,Dog,Labrador Retriever,K24,2026-07-30,In Shelter
+A055,Scout,Dog,Pit Bull Mix,K11,2026-06-16,In Shelter
+A056,Rosie,Dog,Spaniel Mix,K09,2026-08-04,In Shelter
+A057,Maple,Dog,Beagle,K18,2026-06-24,In Shelter
+A058,Frankie,Dog,Mixed Breed,K27,2026-09-07,In Shelter
+A059,Scout,Dog,Mixed Breed,K24,2026-03-16,In Shelter
+A060,Poppy,Dog,Poodle Mix,K01,2026-06-13,In Shelter
+A061,Pepper,Dog,Beagle,K14,2026-03-08,In Shelter
+A062,Waffles,Dog,Poodle Mix,K13,2026-05-28,In Shelter
+A063,Frankie,Dog,Beagle,K15,2026-06-12,In Shelter
+A064,Poppy,Dog,Shepherd Mix,K06,2026-04-16,In Shelter
+A065,Juniper,Dog,Terrier Mix,K17,2026-02-03,In Shelter
+A066,Sunny,Dog,Dachshund Mix,K03,2026-10-04,In Shelter
+A067,Poppy,Dog,Poodle Mix,K15,2026-10-01,In Shelter
+A068,Teddy,Dog,Spaniel Mix,K09,2026-09-29,In Shelter
+A069,Waffles,Dog,Beagle,K06,2026-08-10,In Shelter
+A070,Juniper,Dog,Mixed Breed,K26,2026-06-19,In Shelter
+A071,Milo,Rabbit,Domestic Shorthair,,2026-02-01,In Shelter
+A072,Mochi,Cat,Domestic Shorthair,,2026-07-25,In Shelter
+A073,Poppy,Rabbit,Domestic Shorthair,,2026-09-30,In Shelter
+A074,Rosie,Rabbit,Domestic Longhair,,2026-06-22,In Shelter
+A075,Mochi,Cat,Domestic Longhair,,2026-08-12,In Shelter
+A076,Maple,Cat,Holland Lop,,2026-02-07,In Shelter
+A077,Bandit,Cat,Holland Lop,,2026-01-19,In Shelter
+A078,Frankie,Rabbit,Domestic Longhair,,2026-01-21,In Shelter
+A079,Bandit,Rabbit,Holland Lop,,2026-07-31,In Shelter
+A080,Milo,Cat,Holland Lop,,2026-08-08,In Shelter
